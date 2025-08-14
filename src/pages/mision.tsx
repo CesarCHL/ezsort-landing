@@ -103,7 +103,7 @@ export default function Mision() {
             Want to be part of our vision?
           </h3>
           <p className="text-xl text-gray-200 mb-8 max-w-2xl mx-auto">
-            Join us on this journey toward a more innovative and sustainable future
+            Join us on this journey toward a more innovative future
           </p>
           <button className="bg-[#fe661b] hover:bg-[#e55a18] text-white px-8 py-4 rounded-full font-semibold text-lg transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
             Meet Our Team
