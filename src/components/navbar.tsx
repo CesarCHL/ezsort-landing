@@ -11,7 +11,7 @@ export default function Navbar() {
             </div>
             <div className="hidden md:flex items-center space-x-6 lg:space-x-8">
               <a href="/mision&vision" className="text-[#424d70] hover:text-[#fe661b] transition-colors duration-200 font-medium text-sm lg:text-base">
-                Mision & Vision
+                Mission & Vision
               </a>
               
               {/* Company Dropdown */}
