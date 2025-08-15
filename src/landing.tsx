@@ -686,7 +686,7 @@ service management experience.          </p>
           <div className="grid gap-6 sm:gap-8 md:grid-cols-2 lg:grid-cols-4">
             <div className="md:col-span-2 lg:col-span-1">
                 <div className="flex items-center space-x-2 mb-3 sm:mb-4">
-                  <img src="photos/ELEMENTOS EZ SORT-04 (1).png" alt="ezsort logo" className="h-28 w-auto max-h-36" />
+                  <img src="photos/logoezsort4.png" alt="ezsort logo" className="h-28 w-auto max-h-36" />
                   {/* <Database className="w-4 h-4 sm:w-5 sm:h-5 text-white" /> */}
                 </div>
               {/* <p className="text-gray-300 text-xs sm:text-sm leading-relaxed">
