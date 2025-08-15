@@ -1,4 +1,5 @@
 import Navbar from "@/components/navbar";
+import Card from "@/components/ui/pricing_card";
 
 export default function Pricing() {
   return (
@@ -6,15 +7,15 @@ export default function Pricing() {
       <Navbar />
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 p-4">
       <h1 className="text-4xl font-bold mb-6 text-gray-800">Pricing</h1>
-      <div className="bg-white shadow-md rounded-lg p-6 max-w-3xl w-full">
-        <section>
-          <h2 className="text-2xl font-semibold mb-4 text-gray-700">Our Pricing Plans</h2>
-          <p className="text-gray-600 leading-relaxed">
-            We offer competitive pricing plans tailored to meet the needs of our clients. Choose the plan that best fits your requirements and budget.
-          </p>
+        <section className="py-6">
+            <div className="flex justify-center">
+            <div className="w-full max-w-4xl">
+              <Card/>
+            </div>
+            </div>
         </section>
       </div>
     </div>
-    </div>
   );
 }
+
