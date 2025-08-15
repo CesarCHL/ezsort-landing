@@ -1,3 +1,4 @@
+import Card from "@/components/member_card";
 import Navbar from "@/components/navbar";
 
 export default function Team() {
@@ -42,6 +43,8 @@ export default function Team() {
               Each team member is committed to providing you the best service.
             </p>
           </div>
+
+          <Card/>
 
           <div className="space-y-16">
             {teamMembers.map((member, index) => (
@@ -92,7 +95,7 @@ export default function Team() {
               <p className="text-gray-600 mb-6">
                 Our team is here to help you optimize your logistics and grow your business.
               </p>
-              <button className="bg-[#fe661b] hover:bg-[#e55a18] text-white px-8 py-3 rounded-full font-semibold transition-all duration-300 transform hover:scale-105 hover:-translate-y-1 shadow-lg hover:shadow-xl">
+              <button className="bg-[#fe661b] hover: cursor-pointer hover:bg-[#e55a18] text-white px-8 py-3 rounded-full font-semibold transition-all duration-300 transform hover:scale-105 hover:-translate-y-1 shadow-lg hover:shadow-xl">
                 Contact Us Today!
               </button>
             </div>
