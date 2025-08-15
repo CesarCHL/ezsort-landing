@@ -210,7 +210,7 @@ export default function EzsortLanding() {
                 <p className="text-gray-600 mb-3 sm:mb-4 text-sm sm:text-base">
                   EZ-Sort ensures complete transparency with real-time data, giving you an immediate, precise view of every detail.
                 </p>
-                <ul className="space-y-2">
+                {/* <ul className="space-y-2">
                   <li className="flex items-center text-xs sm:text-sm text-gray-600">
                     <Check className="w-3 h-3 sm:w-4 sm:h-4 text-[#fe661b] mr-2 flex-shrink-0" />
                     EZ-Sort streamlines the execution of all your services, making sure everything runs smoothly and on schedule.
@@ -219,7 +219,7 @@ export default function EzsortLanding() {
                     <Check className="w-3 h-3 sm:w-4 sm:h-4 text-[#fe661b] mr-2 flex-shrink-0" />
                     Real-time synchronization
                   </li>
-                </ul>
+                </ul> */}
               </CardContent>
             </Card>
 
@@ -232,8 +232,7 @@ export default function EzsortLanding() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-3 sm:mb-4 text-sm sm:text-base">
-                  EZ-Sort provides transparent, detailed cost structures designed specifically for businesses.
-                </p>
+EZ-Sort streamlines the execution of all your services, making sure everything runs smoothly and on schedule.                </p>
                 <ul className="space-y-2">
                   {/* <li className="flex items-center text-xs sm:text-sm text-gray-600">
                     <Check className="w-3 h-3 sm:w-4 sm:h-4 text-[#fe661b] mr-2 flex-shrink-0" />

@@ -57,7 +57,7 @@ export default function Navbar() {
               <a href="/testimonies" className="text-[#424d70] hover:text-[#fe661b] transition-colors duration-200 font-medium text-sm lg:text-base">
                 Testimonies
               </a>
-              <a href="#contact" className="text-[#424d70] hover:text-[#fe661b] transition-colors duration-200 font-medium text-sm lg:text-base">
+              <a href="/#contact" className="text-[#424d70] hover:text-[#fe661b] transition-colors duration-200 font-medium text-sm lg:text-base">
                 Contact
               </a>
             </div>

@@ -11,7 +11,7 @@ export default function Pricing() {
         <header className="w-full bg-gradient-to-br from-[#424d70] to-[#525d80] text-white py-12 px-4">
           <div className="max-w-5xl mx-auto text-center">
             <p className="inline-block bg-[#fe661b]/10 text-[#fe661b] px-3 py-1 rounded-full text-sm font-medium mb-4">
-            
+
               Pricing
             </p>
             <h1 className="text-4xl sm:text-5xl font-bold">
@@ -34,7 +34,6 @@ export default function Pricing() {
                 </div>
               </div>
 
-              {/* Feature highlights beneath cards */}
               <div className="mt-10 grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="flex flex-col items-start p-6 rounded-xl border border-gray-100 bg-gray-50">
                   <h4 className="text-lg font-semibold text-[#424d70] mb-2">
@@ -51,7 +50,7 @@ export default function Pricing() {
                     Transparent billing
                   </h4>
                   <p className="text-gray-600">
-                    Flat yearly and monthly options with clear limits — upgrade any
+                    Flat yearly options with clear limits — upgrade any
                     time without surprises.
                   </p>
                 </div>
