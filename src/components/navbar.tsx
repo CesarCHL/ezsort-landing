@@ -7,7 +7,7 @@ export default function Navbar() {
             <div className="container mx-auto px-4 py-4">
                 <div className="flex items-center justify-between">
                     <div className="flex items-center space-x-20 mr-4">
-              <a href="/"><img src="src/photos/LOGO EZ SORT-01.png" alt="ezsort logo" className="h-20 w-auto max-h-28" /></a>
+              <a href="/"><img src="photos/LOGO EZ SORT-01.png" alt="ezsort logo" className="h-20 w-auto max-h-28" /></a>
             </div>
             <div className="hidden md:flex items-center space-x-6 lg:space-x-8">
               <a href="/mision&vision" className="text-[#424d70] hover:text-[#fe661b] transition-colors duration-200 font-medium text-sm lg:text-base">
