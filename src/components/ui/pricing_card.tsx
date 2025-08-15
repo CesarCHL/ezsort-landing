@@ -32,7 +32,7 @@ const Card = () => {
             <li>Dedicated support</li>
             <li>Onboarding</li>
           </ul>
-          <button className="cta">Contact Us</button>
+          <button className="cta">Choose</button>
         </div>
       </div>
     </StyledWrapper>
