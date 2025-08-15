@@ -120,7 +120,7 @@ export default function EzsortLanding() {
             </div>
             <div className="flex items-center space-x-2">
               <Users className="w-4 h-4 sm:w-5 sm:h-5 text-[#fe661b]" />
-              <span>10,000+ Users</span>
+              <span>1000+ Users</span>
             </div>
             <div className="flex items-center space-x-2">
               <Shield className="w-4 h-4 sm:w-5 sm:h-5 text-[#fe661b]" />
@@ -291,7 +291,7 @@ Our transparent pricing means no hidden fees or surprise charges. Our straightfo
           {/* Image */}
             <div className="md:w-1/2 flex items-center justify-center mt-8 md:mt-0 pr-4">
               <img
-              src="src/photos/ELEMENTOS EZ SORT-07.png"
+              src="photos/ELEMENTOS EZ SORT-07.png"
               alt="EZ-Sort dashboard mockup"
               className="rounded-lg w-40 sm:w-56 md:w-64 lg:w-72 xl:w-80 h-auto object-contain mx-auto"
               style={{ minHeight: "180px", maxWidth: "100%" }}
