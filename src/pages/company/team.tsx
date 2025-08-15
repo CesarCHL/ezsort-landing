@@ -1,4 +1,3 @@
-import Card from "@/components/member_card";
 import Navbar from "@/components/navbar";
 
 export default function Team() {
@@ -44,7 +43,7 @@ export default function Team() {
             </p>
           </div>
 
-          <Card/>
+          {/* <Card/> */}
 
           <div className="space-y-16">
             {teamMembers.map((member, index) => (
