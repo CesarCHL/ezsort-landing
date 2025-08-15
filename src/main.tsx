@@ -2,7 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import './index.css'
-import EzsortLanding from './pages/landing.tsx';
+import EzsortLanding from './landing.tsx';
 import Mision from './pages/mision.tsx';
 import Team from './pages/company/team.tsx';
 import Facilities from './pages/company/facilities.tsx';
